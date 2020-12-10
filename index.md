@@ -2,7 +2,7 @@
 ## Este proyecto fue posible gracias a las redes neuronales.
 ##  Que son las redes neuronales.
 ## Cual es su relacion con la teoria de grafos 
-https://www.madrimasd.org/blogs/matematicas/files/2012/09/Network_representation_of_brain_connectivity.jpg
+¡GRAFOS <https://www.madrimasd.org/blogs/matematicas/files/2012/09/Network_representation_of_brain_connectivity.jpg>
 
 <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
 <df-messenger
