@@ -4,8 +4,13 @@
 ## Cual es su relacion con la teoria de grafos 
 
 <img src="https://andromedavaluecapital.com/wp-content/uploads/2018/02/neuronal-network-1024x585.jpg" alt="Red neuronal">
-![Grafos](https://francisthemulenews.files.wordpress.com/2011/12/dibujo20111231_rich-club_regions_and_connections_size_nodes_number_connections.png")
 
+![Grafo](https://www.madrimasd.org/blogs/matematicas/files/2012/09/Network_representation_of_brain_connectivity.jpg)
+
+
+
+
+![Grafo](https://www.madrimasd.org/blogs/matematicas/files/2012/09/Network_representation_of_brain_connectivity.jpg)
 
 <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
 <df-messenger
