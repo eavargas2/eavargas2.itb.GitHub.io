@@ -2,6 +2,8 @@
 ## Este proyecto fue posible gracias a las redes neuronales.
 ##  Que son las redes neuronales.
 ## Cual es su relacion con la teoria de grafos 
+
+<img src="https://andromedavaluecapital.com/wp-content/uploads/2018/02/neuronal-network-1024x585.jpg" alt="Red neuronal">
 ![Grafos](https://www.madrimasd.org/blogs/matematicas/files/2012/09/Network_representation_of_brain_connectivity.jpg")
 
 
